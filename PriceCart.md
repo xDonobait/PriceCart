@@ -9,7 +9,7 @@ Tecnología en Desarrollo de Sistemas de Información y de Software
 - Gubriel Garces Ravel 
 - Hailyn Pacheco Ríos
   
-Tecnologías y herramientas:
+Tecnologías y herramientas usadas:
 - Editor de Código (Visual Studio Code)
 - Flutter
 - Dart

@@ -6,7 +6,7 @@ Tecnología en Desarrollo de Sistemas de Información y de Software
 
 - Anthony Mestra Ríos
 - Donoban Peralta Gutierrez
-- Gabriel Garces Ravel 
+- Gubriel Garces Ravel 
 - Hailyn Pacheco Ríos
   
   

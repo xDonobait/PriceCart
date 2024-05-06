@@ -11,7 +11,8 @@ Tecnología en Desarrollo de Sistemas de Información y de Software
   
 Recursos necesarios:
 -- Tecnologías y herramientas:
-    Editor de Código (Visual Studio Code)
-    Flutter
-    Dart
+- Editor de Código (Visual Studio Code)
+- Flutter
+- Dart
+  
 
